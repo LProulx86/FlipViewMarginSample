@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"FlipViewMarginSample.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"FlipViewMarginSample.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
